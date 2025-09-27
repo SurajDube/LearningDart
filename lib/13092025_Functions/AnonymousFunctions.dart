@@ -1,7 +1,7 @@
 void main() {
 
-  // Anonymous Function in forEach()
-  var list = ["Shubham","Nick","Adil","Puthal"];
+  // Anonymous Function in forEach() or lambda 
+   var list = ["Shubham","Nick","Adil","Puthal"];
    print("SurajDubey: Anonymous function in Dart");
    list.forEach((item) {
     print('${list.indexOf(item)}  : $item');

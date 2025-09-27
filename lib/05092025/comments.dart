@@ -13,7 +13,7 @@ my name is
 
 //3. Dart Documentation Comment. (///)
 
-// / This is 
-// / a documentation 
-// / comment 
+/// This is 
+ /// a documentation 
+/// comment 
 

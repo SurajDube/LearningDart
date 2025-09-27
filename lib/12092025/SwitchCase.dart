@@ -1,4 +1,4 @@
-void main()
+void main() // switch case works with int and string
 {       // Normal switch-case statement
         int s1 = 1;
         switch (s1)

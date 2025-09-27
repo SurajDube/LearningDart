@@ -25,7 +25,7 @@ class Gfg implements Geek {
 void main() {
     // Creating Object
     // of the class Gfg
-    Gfg geek1 = new Gfg();
+    Gfg geek1 = Gfg();
     
     // Calling method
     // (After Implementation )

@@ -1,9 +1,17 @@
 void main() {
   
-  String nm1 = "'suyraj'";
-  String nm2 = '"suyraj"';
+  String nm1 = "'suraj'";
+  String nm2 = '"suraj"';
   print(nm1);
   print(nm2);
-  String KeywordsList = "abstract, as, assert, async, await, break, case, catch, class, const, continue, covariant, default, deferred, do, dynamic, else, enum, export, extends, extension, external, factory, false, final, finally, for, Function, get, hide, if, implements, import, in, interface, is, late, library, mixin, new, null, on, operator, part, required, rethrow, return, set, show, static, super, switch, sync*, this, throw, true, try, typedef, var, void, while, with, yield, yield*";
-  print(KeywordsList);
+  String KeywordsList = "\nabstract, as, assert, async, await, \nbreak, \ncase, catch, class, const, continue, covariant, \ndefault, deferred, do, dynamic, \nelse, enum, export, extends, extension, external, \nfactory, false, final, finally, for, Function, \nget, \nhide, \nif, implements, import, in, interface, is, \nlate, library,\n mixin, \nnew, null, \non, operator, \npart, \nrequired, rethrow, return, \nset, show, static, super, switch, sync*, \nthis, throw, true, try, typedef, \nvar, void, \nwhile, with, \nyield, yield*";
+  print("KeywordsList in Dart Programming: $KeywordsList");
+
+  print('Dart\'s very easy.'); 
+  print("Dart's very easy.");
+
+  String s1 = 'Suraj\n'
+              'Kumar\n'
+              'Dubey';
+  print(s1);
 }

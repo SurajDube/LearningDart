@@ -48,7 +48,7 @@ class Gfg implements s1, s2, s3 {
 void main() {
     // Creating Object of
     // the class Gfg
-    Gfg geek1 = new Gfg();
+    Gfg geek1 = Gfg();
     
     // Calling method (After Implementation )
     geek1.printdata1();
