@@ -66,11 +66,25 @@ Object-Oriented Programming:
         abstract classes, 
         abstract methods,
         interfaces
+    6. Exception Handling & Thread
 Keywords in Dart:
     this Keyword
     static Keyword
     super Keyword
-
+Date & Time
+Async wait
+utilities
+Dart Programs
+Adavnce Concept:
+    Collections:
+        1.  List
+        2.  Queue
+        3.  Set
+        4.  Map
+        5.  LinkedList
+    Packages
+    String codeUnits Property
+    HTML Document Object Model and Dart Programming (Important)
 
     
 
